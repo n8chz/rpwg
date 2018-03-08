@@ -4,6 +4,7 @@
 #include <math.h>
 #include <stdint.h>
 #include <string.h>
+#include <time.h>
 
 char *table[] = {
  "aA4@",
